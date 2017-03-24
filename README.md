@@ -27,7 +27,7 @@ http://tris.highwaysengland.co.uk
 
 ### Packages used
 
-requests - http://docs.python-requests.org/en/master/
-pandas - http://pandas.pydata.org/
-beautiful soup - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-juypter notebook - http://jupyter.org/
+* requests - http://docs.python-requests.org/en/master/
+* pandas - http://pandas.pydata.org/
+* beautiful soup - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+* juypter notebook - http://jupyter.org/
