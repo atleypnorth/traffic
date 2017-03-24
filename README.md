@@ -30,4 +30,4 @@ http://tris.highwaysengland.co.uk
 * requests - http://docs.python-requests.org/en/master/
 * pandas - http://pandas.pydata.org/
 * beautiful soup - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
-* juypter notebook - http://jupyter.org/
+* jupyter notebook - http://jupyter.org/
